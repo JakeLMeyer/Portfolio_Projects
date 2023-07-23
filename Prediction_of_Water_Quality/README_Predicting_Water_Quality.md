@@ -1,4 +1,4 @@
-#Predicting Water Quality
+## Predicting Water Quality
 Documentation Date: 07/02/2023 <br>
 Author: Jake Meyer
 
