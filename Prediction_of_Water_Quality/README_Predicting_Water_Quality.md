@@ -59,6 +59,8 @@ via meyerjake@gmail.com.
 <li>World Health Organization. (2022, March 21). Drinking-Water. World Health Organization Newsroom. https://www.who.int/news-room/fact-sheets/detail/drinking-water
 </ul>
 
+## Citation for this Project
+Meyer, J. (2023, August 9). *Prediction of Water Quality*. JakeLMeyer Portfolio Projects.
 
-
-
+## Return to Jake Meyer Github-Page
+Github-Page - [Jake Meyer Github-Page](https://jakelmeyer.github.io/)
