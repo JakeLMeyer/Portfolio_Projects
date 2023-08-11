@@ -3,7 +3,7 @@ Documentation Date: 06/27/2022 <br>
 Author: Jake Meyer
 
 ## Project Description
-This assignment focused on building a Linear Regression model to predict fuel efficiency (miles per gallon) of automobiles. The auto-mpg dataset from Kaggle (UCI Machine Learning) was utilized. The high-level steps within the assignment were prepping the data for the model, creating a correlation coefficient matrix, performing some exploratory data analysis, and training and testing a Linear Regression model. A Lasso Regression model was also trained and tested to compare with evaluation metrics such as R2, RMSE, and MAE. 
+This assignment focused on building a Linear Regression model to predict fuel efficiency (miles per gallon) of automobiles. The auto-mpg dataset from Kaggle (UCI Machine Learning) was utilized. The high-level steps within the assignment were prepping the data for the model, creating a correlation coefficient matrix, performing some exploratory data analysis, and training and testing a Linear Regression model. A Lasso Regression model was also trained and tested to compare with evaluation metrics such as R-Squared, RMSE, and MAE. 
 
 ## Table of Contents
 <ol>
