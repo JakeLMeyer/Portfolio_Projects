@@ -21,7 +21,7 @@ MNIST Dataset.
 The project was completed in Jupyter Notebook (through Anaconda Navigator) via Python. All relevant libraries are called out in the Import Necessary Libraries section of the code.
 
 ## High-Level Steps
-Create directories, create encoder network (Simple Convnet),  create sampling function, decoder implementation, create custom variational layer class, instantiate and train the model, generate plot, and save as output to results directory.
+Create directories, create encoder network (Simple Convnet),  create sampling function, decoder implementation, create custom variational layer class, instantiate and train the model, generate plot and save as output to results directory.
 
 ## Report an Issue
 In the event of an error or major concerns, please reach out to my email via meyerjake@gmail.com.
