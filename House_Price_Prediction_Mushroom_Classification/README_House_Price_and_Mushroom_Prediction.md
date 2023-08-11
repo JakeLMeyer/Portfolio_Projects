@@ -1,4 +1,4 @@
-# Project Title
+# House Price Prediction and Mushroom Classification
 Documentation Date: 07/12/2022 <br>
 Author: Jake Meyer
 
