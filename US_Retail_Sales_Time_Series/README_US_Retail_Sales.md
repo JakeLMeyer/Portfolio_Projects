@@ -26,7 +26,7 @@ The project was completed in Jupyter Notebook (through Anaconda Navigator) via P
 Renamed the column headers for convenience. Only considered date and sales to revise the dataframe. Removed the missing records from the dataset.
 
 ## Model Training
-Split the data into Train/Test subsets. Used only the last year of data from July 2020-June 2021 as the test set. Trained and tested a Holt-Winters Forecast Model with Exponential Smoothing. 
+Split the data into Train/Test subsets. Used the last year of data from July 2020-June 2021 as the test set. Trained and tested a Holt-Winters Forecast Model with Exponential Smoothing. 
 
 ## Model Evaluation
 RMSE was utilized for the evaluation metric.
