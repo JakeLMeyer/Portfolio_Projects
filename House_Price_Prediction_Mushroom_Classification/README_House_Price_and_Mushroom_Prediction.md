@@ -18,7 +18,7 @@ The second main objective was to apply the feature reduction techniques with a c
 </ol>
 
 ## Supporting Files
-House Price labeled training dataset from this link (Kaggle): [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=train.csv)
+House Price labeled training dataset from this link (Kaggle): [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=train.csv) <br>
 Mushroom data from this link (UCI ML): [Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification).
 
 ## Project Environment Overview
