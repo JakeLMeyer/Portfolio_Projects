@@ -9,7 +9,7 @@ Since 2012, the Sustainable Development Solutions Network has been publishing th
     <li> Which countries are the unhappiest?
     <li> Which features are most significant for the happiest countries?
     <li> Which model provides the best accuracy for predicting a country’s happiness level?
-<ul>
+<ul> <br>
 
 ## Table of Contents
 <ol>
