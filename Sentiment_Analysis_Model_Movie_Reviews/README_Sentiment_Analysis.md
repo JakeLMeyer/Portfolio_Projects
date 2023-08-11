@@ -23,7 +23,7 @@ Dataset from Kaggle - [Bag of Words Meets Bags of Popcorn.](https://www.kaggle.c
 The project was completed in Jupyter Notebook (through Anaconda Navigator) via Python. All relevant libraries are called out in the Import Necessary Libraries section of the code.
 
 ## Data Preprocessing
-Stemm the data by converting all text to lowercase, removing punctuation, removing special characters, limit only alpha characters, remove stop words, and apply NLTK's PorterStemmer. 
+Stem the data by converting all text to lowercase, removing punctuation, removing special characters, limit only alpha characters, remove stop words, and apply NLTK's PorterStemmer. 
 
 ## Model Training
 Split the data into Train/Test subsets. Fit and apply a TF-IDF Vectorization to the training data. Apply the TF-IDF Vectorization to the Test data. Train and Test a Logistic Regression Model initially, then train and test a Multinomial Naive Bayes Classifier.
