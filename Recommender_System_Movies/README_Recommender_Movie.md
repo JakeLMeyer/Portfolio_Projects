@@ -23,7 +23,7 @@ Movie Lens Data Set (Small) - [MovieLens dataset](https://grouplens.org/datasets
 The project was completed in Jupyter Notebook (through Anaconda Navigator) via Python. All relevant libraries are called out in the Import Necessary Libraries section of the code.
 
 ## Data Preprocessing
-Merged the df_ratings and df_movies dataframes together for the analysis. Structure the dataframe so it can be grouped by a movie input and output the top movies to recommend based on correlation value.
+Merged the df_ratings and df_movies dataframes together. Structured the dataframe so it could be grouped by a movie input and output the top movies to recommend based on correlation value.
 
 ## Model Training
 Receive input from the user and sort the dataframe based on correlation value. 
