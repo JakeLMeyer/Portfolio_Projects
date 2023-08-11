@@ -14,6 +14,8 @@ The focus for this project was centered around Supply Chain Analytics. The two m
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files
@@ -23,7 +25,7 @@ Dataset - [Mendeley Data](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
 The project was completed in Jupyter Notebook (through Anaconda Navigator) via Python. All relevant libraries are called out in the Import Necessary Libraries section of the code.
 
 ## Data Preprocessing
-One of the main challenges of this project was merging all the data into one file. The consolidated file is included in the repository and can be used for future analysis. The data preprocessing steps were approached for each problem individually and are outlined thoroughly in the code. 
+The data preprocessing steps were approached for each problem individually and are outlined thoroughly in the code. 
 
 ## Model Training
 Train/Test split was utilized for all the models in the analysis. The models trained are listed in the description section above and are detailed in the code.
