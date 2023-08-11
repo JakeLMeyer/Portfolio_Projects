@@ -14,6 +14,8 @@ This assignment focused on building a Linear Regression model to predict fuel ef
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

@@ -14,6 +14,8 @@ The purpose of this project was to create a recommender system using the small M
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

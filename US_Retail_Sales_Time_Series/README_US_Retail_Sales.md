@@ -14,6 +14,8 @@ As the title outlines, this assignment focused on time series analysis with US R
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

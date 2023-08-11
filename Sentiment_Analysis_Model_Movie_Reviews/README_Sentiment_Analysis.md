@@ -14,6 +14,8 @@ This project focused on building a Logistic Regression model for prediction of s
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

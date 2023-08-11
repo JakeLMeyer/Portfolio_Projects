@@ -14,6 +14,8 @@ The intent for this project was to use data from the Los Angeles Dodgers Basebal
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

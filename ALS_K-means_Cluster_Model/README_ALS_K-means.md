@@ -14,6 +14,8 @@ The focus for this project was to use ALS patient data from PRO_ACT to apply clu
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

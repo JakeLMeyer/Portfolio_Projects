@@ -14,6 +14,8 @@ The focus for this assignment was selection of the best model and hyperparameter
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

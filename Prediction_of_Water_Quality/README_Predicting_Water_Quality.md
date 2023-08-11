@@ -18,6 +18,8 @@ Data Preparation, Predictive Modeling, Evaluation, and Deployment stages.
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files 

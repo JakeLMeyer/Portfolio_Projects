@@ -14,6 +14,8 @@ There were a few parts to this assignment, but the focus was classifying images 
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files

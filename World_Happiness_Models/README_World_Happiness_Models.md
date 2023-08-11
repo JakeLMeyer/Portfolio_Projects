@@ -14,6 +14,8 @@ Since 2012, the Sustainable Development Solutions Network has been publishing th
     <li>Model Evaluation
     <li>Report an Issue
     <li>Project References
+    <li>Project Citation
+    <li>Github-Page Return
 </ol>
 
 ## Supporting Files
