@@ -26,7 +26,7 @@ The project was completed in Jupyter Notebook (through Anaconda Navigator) via P
 Categorical features were converted to dummy variables.
 
 ## Model Training
-Train/Test split performed on the data. Also applied PCA on standardized data to reduce the features down from 75 to 28. Linear Regression Model was trained and tested.
+Train/Test split was performed on the data. Also applied PCA on standardized data to reduce the features down from 75 to 28. Linear Regression Model was trained and tested.
 
 ## Model Evaluation
 R-Squared, Adj. R-Squared, RMSE, and MAE were utilized for the evaluation metrics. In the future, I would revisit the predictive modeling options as well as the PCA applied to the data to improve the performance.
