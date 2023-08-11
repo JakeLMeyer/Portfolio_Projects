@@ -4,12 +4,12 @@ Author: Jake Meyer
 
 ## Project Description
 Since 2012, the Sustainable Development Solutions Network has been publishing the World Happiness Report every year around March 20 in recognition of the International Day of Happiness. The World Happiness Report, “reflects a worldwide demand for more attention to happiness and well-being criteria for government policy” (2023). A thorough understanding of happiness around the globe is important for several reasons. First, the underlying factors for the happiest or unhappiest countries can be compared. Leaders within each country can review their current policies to understand areas to improve for a happier country. Second, major events such as wars or pandemics may have a significant impact on mental health. Leaders within countries with sharp declines in happiness for their citizens can act when needed. Third, many scientific studies indicate great benefits for individuals that tend to be happier compared to peers. Some of these benefits include improved heart health, handling stress more effectively, better immune systems, pain reduction, healthy lifestyles, and increased life expectancy (Mead, 2019). Although the focus for this project will consider happiness by country, it is also important to recognize the benefits of happiness on an individual level. The primary objective for this project is to create a regression model to predict the happiness level of countries. The research questions related to this analysis are shown below: <br>
-<ul>
-    <li> Which countries are the happiest?
-    <li> Which countries are the unhappiest?
-    <li> Which features are most significant for the happiest countries?
-    <li> Which model provides the best accuracy for predicting a country’s happiness level?
-<ul> <br>
+    <ul>
+        <li> Which countries are the happiest?
+        <li> Which countries are the unhappiest?
+        <li> Which features are most significant for the happiest countries?
+        <li> Which model provides the best accuracy for predicting a country’s happiness level?
+    <ul> 
 
 ## Table of Contents
 <ol>
