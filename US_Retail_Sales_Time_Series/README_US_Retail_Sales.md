@@ -1,9 +1,9 @@
-# Project Title
-Documentation Date: 07/02/2023 <br>
+# US Retail Sales Time Series Analysis
+Documentation Date: 10/25/2022 <br>
 Author: Jake Meyer
 
 ## Project Description
-Enter Project Scope here
+As the title outlines, this assignment focused on time series analysis with US Retail Sales Data. The data consisted of total monthly retail sales in the US from January 1992 until June 2021. There were several plots of the data with respect to time. The data was split based on time (last year-target, previous years training) to prepare for training/testing the model. A Holt-Winters Forecast with Exponential Smoothing model was chosen for predictive forecasting. Root Mean Squared Error (RMSE) was the metric chosen to evaluate the performance of the model. 
 
 ## Table of Contents
 <ol>
@@ -17,28 +17,28 @@ Enter Project Scope here
 </ol>
 
 ## Supporting Files
-Insert additional files used here
+US Retail Sales CSV - [US Retail Sales Data](https://github.com/JakeLMeyer/Portfolio_Projects/blob/main/US_Retail_Sales_Time_Series/us_retail_sales.csv)
 
 ## Project Environment Overview
-Insert Project Environment content
+The project was completed in Jupyter Notebook (through Anaconda Navigator) via Python. All relevant libraries are called out in the Import Necessary Libraries section of the code.
 
 ## Data Preprocessing
-Insert Data Preprocessing Requirements
+Renamed the column headers for convenience. Only considered date and sales to revise the dataframe. Removed the missing records from the dataset.
 
 ## Model Training
-Insert Model Training items
+Split the data into Train/Test subsets. Used only the last year of data from July 2020-June 2021 as the test set. Trained and tested a Holt-Winters Forecast Model with Exponential Smoothing. 
 
 ## Model Evaluation
-Evaluation section
+RMSE was utilized for the evaluation metric.
 
 ## Report an Issue
-Report an issue here.
+In the event of an error or major concerns, please reach out to my email via meyerjake@gmail.com.
 
 ## Project References
 Enter References here.
 
 ## Citation for this Project
-Enter Citation here.
+Meyer, J. (2023, August 11). *US Retail Sales Time Series Analysis*. JakeLMeyer Portfolio Projects. https://github.com/JakeLMeyer/Portfolio_Projects/tree/main/US_Retail_Sales_Time_Series
 
 ## Return to Jake Meyer Github-Page
 Github-Page - [Jake Meyer Github-Page](https://jakelmeyer.github.io)<br>
