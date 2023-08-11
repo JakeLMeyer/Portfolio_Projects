@@ -1,4 +1,4 @@
-# Project Title
+# Image Classification
 Documentation Date: 04/23/2023 <br>
 Author: Jake Meyer
 
