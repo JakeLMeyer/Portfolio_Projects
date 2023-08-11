@@ -38,7 +38,7 @@ In the event of an error or major concerns, please reach out to my email via mey
 No aditional references.
 
 ## Citation for this Project
-Meyer, J. (2023, August 11). *Loan Status Prediction*. JakeLMeyer Portfolio Projects.https://github.com/JakeLMeyer/Portfolio_Projects/tree/main/Loan_Status_Prediction
+Meyer, J. (2023, August 11). *Loan Status Prediction*. JakeLMeyer Portfolio Projects. https://github.com/JakeLMeyer/Portfolio_Projects/tree/main/Loan_Status_Prediction
 
 ## Return to Jake Meyer Github-Page
 Github-Page - [Jake Meyer Github-Page](https://jakelmeyer.github.io)<br>
